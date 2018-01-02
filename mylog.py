@@ -1,3 +1,8 @@
+"""
+- author : "leeyoung"
+- email : "reusleeyoung@163.com"
+- date   : "2017.9.20"
+"""
 #coding=utf-8
 
 import logging
